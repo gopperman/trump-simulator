@@ -1,40 +1,26 @@
-body {
-  background: #000;
-  color: #fff;
-  font-family: 'Press Start 2P', courier, sans-serif;
-  margin: 1em;
-}
-
-p { 
-	line-height: 1.6em;
-}
-
-.center {
+.TitleScreen {
+	position: relative;
 	text-align: center;
+	width: 100%;
 }
 
-.button__next {
+.title__start--button {
 	text-decoration: none;
 	text-transform: uppercase;
 	position: relative;
 	text-shadow: #f00 2px 2px 0, #a00 4px 4px 0;
 }
 
-.button__next:hover {
+.title__start--button:hover {
 	cursor: hand;
 	cursor: pointer;
 	position: relative;
 }
 
-.button__next:hover:before {
+.title__start--button:hover:before {
 	content: '\25b6';
 	line-height: 1em;
 	position: absolute;
 	top: -2px;
 	left: -24px;
-}
-
-.maga {
-	font-style: italic;
-	text-align: center;
 }
