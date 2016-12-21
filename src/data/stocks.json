@@ -1,0 +1,44 @@
+[
+	{
+		"name": "The Trump Organization, Inc",
+		"price": 200,
+		"shares": 500
+	},
+	{
+		"name": "Big Energy Index",
+		"price": 150,
+		"shares": 200,
+		"description": "Investments in various oil and energy interests. Donald Trump's portfolio includes companies like Chevron, Energy Transfer Partners, and ConocoPhillips."
+
+	},
+	{
+		"name": "Private Equity",
+		"price": 300,
+		"shares": 125,
+		"description": "Investments in hedge funds and private equity firms. According to FEC filings, Trump has somewhere between $25 to $50 million invested BlackRock's Obsidian Fund, a fixed-income hedge fund. He also has between $2 and $10 million invested in two Angelo Gordon funds. He has between $3 and $15 million invested in funds managed by John Paulson."
+	},
+	{
+		"name": "Aerospace Firms",
+		"price": 125,
+		"shares": 50,
+		"description": "Companies such as United Technologies, and Lockheed Martin. One of the biggest gainers in Trump's portfolio is Boeing, which earned him 3.96 million dollars in 2014."
+	},
+	{
+		"name": "China",
+		"price": 20,
+		"shares": 300,
+		"description": "An emerging market? Chinese investors are one of the biggest financiers of Donald Trump's business projects, and a major holder of U.S. Debt."
+	},
+	{
+		"name": "Silicon Valley",
+		"price": 125,
+		"shares": 50,
+		"description": "Tech, Internet, and Startups. Donald Trump has previously invested heavily in Facebook, Google, Apple, and Tesla"
+	},
+	{
+		"name": "Gold",
+		"price": 250,
+		"shares": 100,
+		"description": "Physical Gold. Great in times of financial instability. On a form submitted in 2015, Donald Trump reported holding an amount of physical gold, valued at between $100,001 to $250,000"
+	},
+]

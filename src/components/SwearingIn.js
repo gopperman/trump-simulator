@@ -5,7 +5,10 @@ class SwearingIn extends Component {
   render() {
     return (
       <div className="SwearingIn">
-        <h1>Swearing In</h1>
+      	<div className="section__header">
+			<h1>Swearing In</h1>
+			(Swearing In image)
+      	</div>
         <p>Hello, I'm John Roberts, Chief Justice of the Supreme Court. 
         Today is a very special day - your inauguration as President of the United States. 
         

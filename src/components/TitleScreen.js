@@ -5,9 +5,9 @@ class TitleScreen extends Component {
   render() {
     return (
       <div className="TitleScreen">
-      	<div className="title__header">
-			<h1>Trump Simulator</h1>
-			(White House image)
+      	<div className="section__header">
+	     		<h1>Trump Simulator</h1>
+  		  	<img src="/img/whitehouse.png" />
       	</div>
       	<p className="title__start"><a className="button__next">New Game</a></p>
         <p className="title__copyright">
