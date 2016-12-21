@@ -1,6 +1,6 @@
 [
 	{
-		"name": "The Trump Organization, Inc",
+		"name": "The Trump Organization",
 		"price": 200,
 		"shares": 500
 	},
@@ -40,5 +40,5 @@
 		"price": 250,
 		"shares": 100,
 		"description": "Physical Gold. Great in times of financial instability. On a form submitted in 2015, Donald Trump reported holding an amount of physical gold, valued at between $100,001 to $250,000"
-	},
+	}
 ]

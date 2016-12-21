@@ -1,0 +1,9 @@
+.Scoreboard {
+	border: 3px solid #fff;
+	max-width: 300px;
+	padding: 10px;
+	position: absolute;
+	right: 10px;
+	top: 20px;
+	display: inline-block;
+}
