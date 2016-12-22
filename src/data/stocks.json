@@ -2,7 +2,8 @@
 	{
 		"name": "The Trump Organization",
 		"price": 200,
-		"shares": 500
+		"shares": 500,
+		"description": "This is the business that Donald Trump founded and built with a modest loan from his father, Fred Trump."
 	},
 	{
 		"name": "Big Energy Index",
@@ -21,7 +22,7 @@
 		"name": "Aerospace Firms",
 		"price": 125,
 		"shares": 50,
-		"description": "Companies such as United Technologies, and Lockheed Martin. One of the biggest gainers in Trump's portfolio is Boeing, which earned him 3.96 million dollars in 2014."
+		"description": "Companies such as United Technologies, and Lockheed Martin. One of the biggest gainers in Trump's portfolio is Boeing, which earned him $3.96 million in 2014."
 	},
 	{
 		"name": "China",

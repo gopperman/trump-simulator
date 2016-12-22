@@ -1,0 +1,19 @@
+.GameOver {
+	text-align: center;
+}
+
+.credits {
+	max-width: 666px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.credits p {
+	display: inline-block;
+	margin: 1em 1em;
+}
+
+.credits h3 {
+	margin: 2em 0 0 0;
+}

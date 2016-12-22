@@ -1,0 +1,58 @@
+table {
+	width: 100%;
+}
+
+th {
+	border-bottom: 2px solid #fff;
+	padding-bottom: 10px;
+	text-align: left;
+	font-size: 1.2em;
+	color: #dedede;
+}
+
+td {
+	padding: .6em 0;
+	position: relative;
+}
+
+.helpTip {
+	background: #fff;
+	color: #000;
+	border-radius: 10px;
+	display: inline-block;
+	width: 1.2em;
+	height: 1.2em;
+	margin: 0 10px;
+	text-align: center;
+	line-height: 1.2em;
+}
+
+.helpDescription {
+	cursor: hand;
+	cursor: pointer;
+	max-height: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 15px;
+	left: 0;
+	width: 600px;
+	transition: max-height, .1s;
+	z-index: 999;
+}
+
+.helpDescription:hover {
+	cursor: hand;
+	cursor: pointer;
+}
+
+.helpTip:hover + .helpDescription {
+	max-height: 900px;
+	transition: max-height, 1s;
+}
+
+.helpDescription p {
+	background: #000;
+	border: 3px solid #fff;
+	padding: 10px;
+	font-size: .8em;
+}

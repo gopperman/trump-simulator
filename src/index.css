@@ -20,6 +20,10 @@ p {
 	text-shadow: #f00 2px 2px 0, #a00 4px 4px 0;
 }
 
+.highlighted {
+	text-shadow: #f00 2px 2px 0, #a00 4px 4px 0;
+}
+
 .button__next:hover {
 	cursor: hand;
 	cursor: pointer;
@@ -37,4 +41,14 @@ p {
 .maga {
 	font-style: italic;
 	text-align: center;
+}
+
+.section__header {
+  position: relative;
+  z-index: 1;
+}
+
+.section__header img {
+  width: 100%;
+  max-width: 100%;
 }

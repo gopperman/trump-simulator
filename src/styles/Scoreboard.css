@@ -1,4 +1,5 @@
 .Scoreboard {
+	background: #000;
 	border: 3px solid #fff;
 	max-width: 300px;
 	padding: 10px;
@@ -6,4 +7,5 @@
 	right: 10px;
 	top: 20px;
 	display: inline-block;
+	z-index: 99;
 }
