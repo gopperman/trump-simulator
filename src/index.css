@@ -13,7 +13,7 @@ p {
 	text-align: center;
 }
 
-.button__next {
+.button {
 	text-decoration: none;
 	text-transform: uppercase;
 	position: relative;
@@ -24,13 +24,13 @@ p {
 	text-shadow: #f00 2px 2px 0, #a00 4px 4px 0;
 }
 
-.button__next:hover {
+.button:hover {
 	cursor: hand;
 	cursor: pointer;
 	position: relative;
 }
 
-.button__next:hover:before {
+.button:hover:before {
 	content: '\25b6';
 	line-height: 1em;
 	position: absolute;

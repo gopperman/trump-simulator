@@ -1,0 +1,29 @@
+.OvalOffice {
+	padding-bottom: 40px;
+}
+
+.event__options {
+	list-style-type: none;
+	text-align: center;
+	max-width: 900px;
+	margin: 2em auto 0;
+}
+
+.event__options li {
+	display: inline-block;
+	margin: .6em 15px;
+}
+
+.event__button {
+	padding: 12px 24px;
+	background: #00f;
+}
+
+.event__button--tweet {
+	background: #00aced;
+}
+
+.event__button:hover {
+	cursor: hand;
+	cursor: pointer;
+}

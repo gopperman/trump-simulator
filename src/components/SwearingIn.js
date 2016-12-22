@@ -22,7 +22,7 @@ class SwearingIn extends Component {
         
         <h2 className="maga">MAKE AMERICA GREAT AGAIN!!!</h2>
 
-        <p className="center"><a className="button__next">Take the Oath of Office</a></p>
+        <p className="center"><a className="button__next button">Take the Oath of Office</a></p>
       </div>
     )
   }

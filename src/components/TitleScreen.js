@@ -9,7 +9,7 @@ class TitleScreen extends Component {
 	     		<h1>Trump Simulator</h1>
   		  	<img src="/img/whitehouse.png" role="presentation" />
       	</div>
-      	<p className="title__start"><a className="button__next">New Game</a></p>
+      	<p className="title__start"><a className="button__next button">New Game</a></p>
         <p className="title__copyright">
         	&copy; 2016 The Boston Globe. <br />
         	Licensed by Nintendo of America Corp.</p>
