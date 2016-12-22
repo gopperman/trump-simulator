@@ -6,7 +6,7 @@ class TitleScreen extends Component {
     return (
       <div className="TitleScreen">
       	<div className="section__header">
-	     		<h1>Trump Simulator</h1>
+	     		<h1>Donald Trump: The Game</h1>
   		  	<img src="/img/whitehouse.png" role="presentation" />
       	</div>
       	<p className="title__start"><a className="button__next button">New Game</a></p>

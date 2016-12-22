@@ -15,8 +15,13 @@
 }
 
 .event__button {
+	display: inline-block;
 	padding: 12px 24px;
 	background: #00f;
+}
+
+.event__intellegence {
+	position: relative;
 }
 
 .event__button--tweet {
@@ -26,4 +31,46 @@
 .event__button:hover {
 	cursor: hand;
 	cursor: pointer;
+}
+
+.event__helpTip {
+	color: #fff;
+	border-radius: 10px;
+	display: inline-block;
+	margin: 2em 2em 0;
+	text-align: center;
+	line-height: 1.2em;
+}
+
+.event__helpDescription {
+	cursor: hand;
+	cursor: pointer;
+	max-height: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 15px;
+	left: 0;
+	width: 600px;
+	z-index: 999;
+}
+
+.event__helpTip:hover {
+	cursor: hand;
+	cursor: pointer;
+}
+
+.event__helpTip:hover + .event__helpDescription {
+	max-height: 900px;
+	position: absolute;
+	top: 50px;
+	width: 100%;
+}
+
+.event__helpDescription p {
+	background: #000;
+	border: 3px solid #fff;
+	padding: 10px;
+	font-size: .8em;
+	display: inline-block;
+	max-width: 600px;
 }

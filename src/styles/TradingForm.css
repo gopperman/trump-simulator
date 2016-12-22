@@ -40,7 +40,7 @@ td {
 	z-index: 999;
 }
 
-.helpDescription:hover {
+.helpTip:hover {
 	cursor: hand;
 	cursor: pointer;
 }

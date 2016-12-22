@@ -9,7 +9,7 @@ class GameOver extends Component {
         	<img src="/img/thumbsup.jpg" role="presentation" />
         </div>
         <h2>Congratulations!</h2>
-        <p>You successfully ran the country. The Trump family business is thriving, and is now worth over $1,000,0000,000. Your legacy will be preserved for centuries to come.</p>
+        <p>You successfully ran the country. The Trump family business is thriving, and is now worth over $1,000,0000,000. Your legacy will be preserved for centuries to come. Very nice!</p>
         <div className="credits">
         	<h3>Made by:</h3>
         	<p>
